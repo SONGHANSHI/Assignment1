@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Assignment1</title>
+		<title>DGPT4711 Assignment2</title>
 	</head>
 	<body>
 		<h1>Detective Comics</h1>

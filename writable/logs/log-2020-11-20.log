@@ -1,0 +1,24 @@
+CRITICAL - 2020-11-20 01:15:03 --> Class 'App\Models\Heros' not found
+#0 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:15:13 --> Class 'App\Models\Heros' not found
+#0 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:15:16 --> Class 'App\Models\Heros' not found
+#0 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:15:20 --> Class 'App\Models\Heros' not found
+#0 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

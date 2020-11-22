@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Assignment 1</title>
+		<title>DGPT4711 Assignment 2</title>
 	</head>
 	<body>
 		<h1>List of  DC Heros</h1>

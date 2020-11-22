@@ -1,0 +1,264 @@
+CRITICAL - 2020-11-19 07:01:56 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:04:25 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:04:30 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:04:31 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:04:35 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:08:26 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:08:30 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:08:32 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:09:08 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:15:14 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:18:45 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:27:15 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:31:37 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:31:46 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:31:57 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:31:59 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:03 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:06 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:33 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:36 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:38 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:32:42 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:45:59 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 07:47:29 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:32:50 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:40:45 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:40:49 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:41:55 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:50:01 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:51:07 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 22:54:23 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/Bruce%20Wayne): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('Bruce%20Wayne')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 23:15:41 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('jpg')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 23:15:53 --> readfile(D:\xampp\htdocs\Assignment1\writable\data/jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(D:\\xam...', 'D:\\xampp\\htdocs...', 8, Array)
+#1 D:\xampp\htdocs\Assignment1\app\Controllers\Media.php(8): readfile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Media->image('jpg')
+#3 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Media))
+#4 D:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
